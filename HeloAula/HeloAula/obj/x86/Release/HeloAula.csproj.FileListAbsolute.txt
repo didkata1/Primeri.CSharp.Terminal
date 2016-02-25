@@ -1,0 +1,4 @@
+D:\aula1\primeri.csharp.terminal\HeloAula\HeloAula\bin\Release\HeloAula.exe
+D:\aula1\primeri.csharp.terminal\HeloAula\HeloAula\bin\Release\HeloAula.pdb
+D:\aula1\primeri.csharp.terminal\HeloAula\HeloAula\obj\x86\Release\HeloAula.exe
+D:\aula1\primeri.csharp.terminal\HeloAula\HeloAula\obj\x86\Release\HeloAula.pdb
